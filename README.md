@@ -1,5 +1,5 @@
-# mintrayr
-Mozilla extension: Minimize windows into the system tray (Firefox, Thunderbird, Seamonkey, Instantbird)
+# Minimize to Notification Area (MinimizeNA)
+Minimize windows into the notification area for supported UXP applications.
 
 # Developing the extension
 
